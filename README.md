@@ -2,4 +2,4 @@
 
 O projeto consiste em um tela de registro com integração de uma api.
 
-Projeto feito utilizando o framework Reactjs e estilização feita pelo framework tailwind.
+Projeto feito utilizando o framework Reactjs e estilização feita pelo framework Tailwind.
