@@ -1,0 +1,10 @@
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[user]
+	name = Kauã de Sousa Novais
+	email = kdesousanovais@gmail.com
+[core]
+	editor = \"C:\\Users\\kdeso\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
