@@ -44,13 +44,11 @@ function App() {
           </div>
         </div>
         
-        {/* Formulário Desktop*/}
         <div className="hidden lg:block lg:w-1/2">
           <RegisterForm/>
         </div>
       </div>
 
-      {/* Overlay do Formulário Mobile - */}
       <MobileFormOverlay 
         isOpen={isMobileFormOpen} 
         onClose={closeMobileForm} 
